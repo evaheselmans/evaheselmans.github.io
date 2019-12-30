@@ -1215,3 +1215,24 @@ section.lazy-placeholder:after {
 .cid-rM9UxumYCL .mbr-text P {
   text-align: center;
 }
+.cid-rMa1LuDZL9 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rMa1LuDZL9 .title {
+  margin-bottom: 2rem;
+}
+.cid-rMa1LuDZL9 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rMa1LuDZL9 a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rMa1LuDZL9 a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rMa1LuDZL9 textarea.form-control {
+  min-height: 188px;
+}
