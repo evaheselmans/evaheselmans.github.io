@@ -1236,3 +1236,15 @@ section.lazy-placeholder:after {
 .cid-rMa1LuDZL9 textarea.form-control {
   min-height: 188px;
 }
+.cid-rMa4SH2VcY {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rMa4SH2VcY .mbr-text,
+.cid-rMa4SH2VcY blockquote {
+  color: #767676;
+}
+.cid-rMa4SH2VcY .mbr-text P {
+  text-align: center;
+}
