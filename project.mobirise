@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Eva Heselmans",
-    "currentPage": "index.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -165,7 +165,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Typographic poster",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -239,7 +239,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Book cover",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -313,7 +313,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "NSTLG",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -473,7 +473,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Gravity",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -547,7 +547,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Skateboard deck",
-        "order": 8
+        "order": 2
       },
       "components": [
         {
@@ -664,7 +664,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "ART@VSAC",
-        "order": 9
+        "order": 1
       },
       "components": [
         {
@@ -1061,7 +1061,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Contact",
-        "order": 3
+        "order": 8
       },
       "components": [
         {
@@ -1129,7 +1129,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Paintings",
-        "order": 1
+        "order": 7
       },
       "components": [
         {
@@ -1189,7 +1189,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><a href=\"index.html\">Home</a></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><a href=\"index.html\" class=\"text-black\">Home</a></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rQcsMLfGlL",
           "_protectedParams": [],
           "_global": false,
