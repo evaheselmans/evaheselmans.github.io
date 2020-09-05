@@ -69,7 +69,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 99,
+    "uniqCompNum": 102,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/nip-png-128x126.png",
@@ -179,7 +179,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><a href=\"page7.html\" class=\"text-black\">ART@VSAC</a></p><p><a href=\"page13.html\" class=\"text-black\">WERKTANK</a></p><p><a href=\"page11.html\" class=\"text-black\"></a><a href=\"page11.html\" target=\"_blank\" class=\"text-black\">SAMENHUIZEN VZW</a></p><p><a href=\"page9.html\" class=\"text-black\">PRE-SELECTION SPOILER ROOM</a></p><p><span style=\"font-size: 1rem;\">•&nbsp;<a href=\"page10.html\" class=\"text-black\">ARTWORK</a>S •</span></p><p><i><span style=\"font-size: 1rem;\"></span></i></p><p><a href=\"page14.html\" class=\"text-black\">LOOKING GOOD</a></p><p><a href=\"page6.html\" class=\"text-black\">SKATEBOARD DECK</a></p><p><a href=\"page1.html\" class=\"text-black\">TYPOGRAPHIC POSTER</a></p><p><a href=\"page2.html\" class=\"text-black\">BOOK COVER</a></p><p><a href=\"page5.html\" class=\"text-black\">GRAVITY</a></p><p><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><a href=\"page7.html\" class=\"text-black\">ART@VSAC</a></p><p><a href=\"page13.html\" class=\"text-black\">WERKTANK</a></p><p><a href=\"page11.html\" class=\"text-black\"></a><a href=\"page11.html\" target=\"_blank\" class=\"text-black\">SAMENHUIZEN VZW</a></p><p><a href=\"page9.html\" class=\"text-black\">PRE-SELECTION SPOILER ROOM</a></p><p><a href=\"page12.html\">ATOOM</a></p><p><span style=\"font-size: 1rem;\">•&nbsp;<a href=\"page10.html\" class=\"text-black\">ARTWORK</a>S •</span></p><p><i><span style=\"font-size: 1rem;\"></span></i></p><p><a href=\"page14.html\" class=\"text-black\">LOOKING GOOD</a></p><p><a href=\"page6.html\" class=\"text-black\">SKATEBOARD DECK</a></p><p><a href=\"page1.html\" class=\"text-black\">TYPOGRAPHIC POSTER</a></p><p><a href=\"page2.html\" class=\"text-black\">BOOK COVER</a></p><p><a href=\"page5.html\" class=\"text-black\">GRAVITY</a></p><p><br></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rM9wMKjNWT",
           "_anchor": "content1-8",
           "_protectedParams": [],
@@ -2230,6 +2230,28 @@
         "order": 1
       },
       "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "center"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">Branding for webdesign agency atoom including logo, business cards, facebook banner and a propostition for the website design and animations.</div>\n        </div>\n    </div>\n</section>",
+          "_cid": "s9J2V2eoFM",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-2t"
+        },
         {
           "alias": false,
           "_styles": {
