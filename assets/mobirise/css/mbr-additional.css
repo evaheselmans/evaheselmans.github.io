@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
 
 
+
 body {
   font-family: Rubik;
 }
@@ -13,12 +14,12 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Solide_Mirage-Mono_web';
-  font-size: 1.4rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
   font-display: swap;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 2.24rem;
+  font-size: 3.2rem;
 }
 .display-4 {
   font-family: 'Solide_Mirage-Mono_web';
@@ -56,9 +57,9 @@ body {
     line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 1.12rem;
-    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.6rem;
+    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -657,35 +658,9 @@ section.lazy-placeholder:after {
 }
 .cid-rM9w5pVygG H2 {
   text-align: center;
+  color: #000000;
 }
 .cid-rM9w5pVygG .mbr-section-subtitle P {
-  text-align: center;
-}
-.cid-rM9wMKjNWT {
-  padding-top: 15px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rM9wMKjNWT .mbr-text,
-.cid-rM9wMKjNWT blockquote {
-  color: #767676;
-}
-.cid-rM9wMKjNWT .mbr-text P {
-  text-align: center;
-}
-.cid-rM9wMKjNWT .mbr-text {
-  color: #232323;
-}
-.cid-rM9xGdal5m {
-  padding-top: 0px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rM9xGdal5m .mbr-text,
-.cid-rM9xGdal5m blockquote {
-  color: #767676;
-}
-.cid-rM9xGdal5m .mbr-text P {
   text-align: center;
 }
 .cid-rM9y0xDk9s {
