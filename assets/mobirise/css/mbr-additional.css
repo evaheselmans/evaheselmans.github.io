@@ -2,6 +2,7 @@
 
 
 
+
 body {
   font-family: Rubik;
 }
@@ -30,7 +31,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Solide_Mirage-Mono_web';
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.5rem;
   font-display: swap;
 }
